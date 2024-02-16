@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434079123097",
+    "project_id": "expensetracker-q5",
+    "storage_bucket": "expensetracker-q5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434079123097:android:fd4cf6ff8e34f5cdbd1a08",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker_q5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmdvuqD9x46CEjbz5m6Add_HfRWCBqRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
